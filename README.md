@@ -9,5 +9,5 @@ The integration of Bitcoin-Lightning with Evrmore
 
 This mono-repo will contain code, documentation, and examples of integrating Bitcoin-Lightning with Evrmore.
 
-** EvrLight uses Evrmore as Layer-1 for diverse Lightning assets like Bitcoin is Layer-1 for Lightning money **
+**EvrLight uses Evrmore as Layer-1 for diverse Lightning assets like Bitcoin is Layer-1 for Lightning money**
 
