@@ -1,8 +1,8 @@
 
-#EvrLight_Whitepaper
+# EvrLight_Whitepaper
 
 
-##Beyond Zaps and Value-4-Value - Bitcoin Lightning Enabled P2P Global Permissionless Social Commerce
+## Beyond Zaps and Value-4-Value - Bitcoin Lightning Enabled P2P Global Permissionless Social Commerce
 
 **EvrLight uses Bitcoin Lightning to enable the buying and selling of tickets, coupons, NFTs, and real-world tokenized commodities and securities over social media and other peer-to-peer channels.**
 
